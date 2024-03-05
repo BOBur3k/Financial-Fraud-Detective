@@ -1,5 +1,5 @@
 # Financial-Fraud-Detective
-![Dalle2_ART](docs/imagee.jpg)
+![Dalle2_ART](doc/imagee.jpg)
 <p align="right">
   Artwork created by AI
 </p>
